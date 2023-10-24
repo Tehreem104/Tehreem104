@@ -1,18 +1,13 @@
 # Introduction 👋
-Hello my name is Tehreeem Mushtaq. I am a student at Fast Nuces Lhr Campus. I love Solving complex problems. You can access my university projects here.
+Hello my name is Tehreeem Mushtaq. I am a Technical Content Engineer at Educative.io.
 # Expertise 👀
 - 🌱 C++
 - 💞️ Java
-- 📫 Assembly
 - 🌱 Python
-- 💞️ AI/ Machine Learning
-- 📫 React
+- 📫 ReactJs
 - 🌱 NodeJs
 - 💞️ Matlab
-- 📫 .NET
-- 🌱 Android Development
-- 💞️ c language
-- 📫 Networking
+
 
 <!---
 Tehreem104/Tehreem104 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
